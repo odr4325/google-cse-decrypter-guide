@@ -1,0 +1,15 @@
+# Binaries and executables
+decrypter
+decrypter.exe
+検証メモ.txt
+
+# Configuration files containing credentials or private info
+*.json
+idp_config*.json
+
+# Other files to exclude
+.DS_Store
+README.txt
+CHANGELOG.txt
+LICENSES.macos.txt
+*.dmg
